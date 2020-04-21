@@ -22,3 +22,10 @@
 .work-style__items {
   width: 80%;
 }
+
+@media (min-width: 1400px) {
+  .hover-state-pic {
+    width: 11rem;
+    height: 11rem;
+  }
+}
